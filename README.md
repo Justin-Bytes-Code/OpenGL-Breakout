@@ -1,4 +1,4 @@
-# Open-GL-House
+# Open-GL-Breakout
 This was a medium level assignment completed in C++ using openGL to create a breakout clone. This was a small challange done in 2 days. It includes a playable demo!
 
 ---
